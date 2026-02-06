@@ -1,7 +1,7 @@
 # Climate Research Website
 
-Features Implemented:
-✅ Registration Form with:
+## Features Implemented:
+### ✅ Registration Form with:
 
 Title: Climate Research Registration
 
