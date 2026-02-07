@@ -315,8 +315,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </form>
         
         <div class="login-link">
-            <p>Already registered? <a href="login.php">Login here</a></p>
+            <p>Already registered? <a href="index.php">Login here</a></p>
         </div>
     </div>
 </body>
+
 </html>
