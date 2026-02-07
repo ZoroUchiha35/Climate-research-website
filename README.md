@@ -1,5 +1,7 @@
 # Climate Research Website
 
+A simple PHP/MySQL website for climate research registration.
+
 ## Features Implemented:
 ### ✅ Registration Form with:
 
