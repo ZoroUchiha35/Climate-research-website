@@ -5,23 +5,16 @@ A simple PHP/MySQL website for climate research registration.
 ## Features Implemented:
 ### ✅ Registration Form with:
 
-Title: Climate Research Registration
+Title: **Climate Research Registration**
 
-First Name & Last Name fields
-
-Email validation
-
-Phone number field
-
-Gender radio buttons (Male/Female/Other)
-
-Age field with validation
-
-City dropdown with 5 cities
-
-Password with confirmation
-
-Secure password hashing (password_hash())
+- First Name & Last Name fields
+- Email validation
+- Phone number field
+- Gender radio buttons (Male/Female/Other)
+- Age field with validation
+- City dropdown with 5 cities
+- Password with confirmation
+- Secure password hashing (password_hash())
 
 ✅ Login Form with:
 
