@@ -29,7 +29,7 @@ Title: **Climate Research Registration**
 - Research project information
 - Logout option
 
-✅ Security Features:
+## ✅ Security Features:
 
 Prepared statements to prevent SQL injection
 
