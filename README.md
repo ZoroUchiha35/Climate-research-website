@@ -24,10 +24,10 @@ Title: **Climate Research Registration**
 
 ## ✅ Homepage with:
 
-Personalized welcome message
-User profile information
-Research project information
-Logout option
+- Personalized welcome message
+- User profile information
+- Research project information
+- Logout option
 
 ✅ Security Features:
 
