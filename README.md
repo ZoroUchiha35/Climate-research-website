@@ -16,13 +16,11 @@ Title: **Climate Research Registration**
 - Password with confirmation
 - Secure password hashing (password_hash())
 
-✅ Login Form with:
+## ✅ Login Form with:
 
 Email and password fields
-
 Session management
-
-Secure password verification (password_verify())
+Secure password verification `(password_verify())`
 
 ✅ Homepage with:
 
