@@ -31,9 +31,9 @@ Title: **Climate Research Registration**
 
 ## ✅ Security Features:
 
-Prepared statements to prevent SQL injection
-Password hashing (not stored in plain text)
-Session-based authentication
+- Prepared statements to prevent SQL injection
+- Password hashing (not stored in plain text)
+- Session-based authentication
 Input validation and sanitization
 
 Database Security Note:
