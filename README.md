@@ -22,14 +22,11 @@ Title: **Climate Research Registration**
 - Session management
 - Secure password verification `(password_verify())`
 
-✅ Homepage with:
+## ✅ Homepage with:
 
 Personalized welcome message
-
 User profile information
-
 Research project information
-
 Logout option
 
 ✅ Security Features:
