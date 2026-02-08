@@ -10,11 +10,11 @@ Title: **Climate Research Registration**
 - First Name & Last Name fields
 - Email validation
 - Phone number field
-- Gender radio buttons (Male/Female/Other)
+- Gender radio buttons `(Male/Female/Other)`
 - Age field with validation
 - City dropdown with 5 cities
 - Password with confirmation
-- Secure password hashing (password_hash())
+- Secure password hashing `(password_hash())`
 
 ## ✅ Login Form with:
 
@@ -37,7 +37,7 @@ Title: **Climate Research Registration**
 - Input validation and sanitization
 
 Database Security Note:
-Passwords are hashed using password_hash() and verified using password_verify(). This means:
+Passwords are hashed using `password_hash()` and verified using `password_verify()`. This means:
 
 Original passwords are never stored in the database
 
