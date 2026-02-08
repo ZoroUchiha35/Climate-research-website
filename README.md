@@ -18,9 +18,9 @@ Title: **Climate Research Registration**
 
 ## ✅ Login Form with:
 
-Email and password fields
-Session management
-Secure password verification `(password_verify())`
+- Email and password fields
+- Session management
+- Secure password verification `(password_verify())`
 
 ✅ Homepage with:
 
