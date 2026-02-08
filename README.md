@@ -34,7 +34,7 @@ Title: **Climate Research Registration**
 - Prepared statements to prevent SQL injection
 - Password hashing (not stored in plain text)
 - Session-based authentication
-Input validation and sanitization
+- Input validation and sanitization
 
 Database Security Note:
 Passwords are hashed using password_hash() and verified using password_verify(). This means:
