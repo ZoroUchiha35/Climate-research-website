@@ -37,8 +37,8 @@ Title: **Climate Research Registration**
 - Input validation and sanitization
 
 ### **NB**
-Database Security Note:
-Passwords are hashed using password_hash() and verified using password_verify(). This means:
+Database Security Note: <br>
+Passwords are hashed using `password_hash()` and verified using `password_verify()`. This means:
 - Original passwords are never stored in the database
 - If the database is compromised, passwords cannot be recovered
 - Each password gets a unique hash even if two users have the same password
