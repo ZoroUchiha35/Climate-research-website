@@ -36,7 +36,7 @@ Title: **Climate Research Registration**
 - Session-based authentication
 - Input validation and sanitization
 
-Database Security Note:
+### **NB** Database Security Note:
 Passwords are hashed using `password_hash()` and verified using `password_verify()`. This means:
 
 Original passwords are never stored in the database
